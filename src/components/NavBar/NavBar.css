@@ -1,0 +1,17 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: brown;
+}
+
+.nav li {
+    padding: 10px;
+}
+
+.nav li:hover {
+    color: blue;
+}
